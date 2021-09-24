@@ -29,3 +29,4 @@ I included a few test files
 <br><br/>
 #### output file
 ```trips.csv```
+trips are sorted by time started
